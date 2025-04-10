@@ -68,7 +68,7 @@
 
 <div align="center">
   
-## __**Statistics**__
+## :chart_with_upwards_trend: __**Statistics**__
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexthunder2005&layout=compact&hide_border=true&title_color=1F2328&text_color=1F2328&card_width=1000)](https://github.com/alexthunder2005/github-readme-stats)
 
