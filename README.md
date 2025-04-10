@@ -8,8 +8,6 @@
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_alexthunder_19)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narivonchyk-aleksandr)
 
-  ![](https://komarev.com/ghpvc/?username=alexthunder2005&color=blue)
-
 </div>
 
 ---
@@ -72,7 +70,7 @@
   
 ## __**Statistics**__
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexthunder2005&layout=compact&hide_border=true&title_color=58A6FF&text_color=8B949E&card_width=1000)](https://github.com/alexthunder2005/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexthunder2005&layout=compact&hide_border=true&title_color=1F2328&text_color=1F2328&card_width=1000)](https://github.com/alexthunder2005/github-readme-stats)
 
 </div>
 
