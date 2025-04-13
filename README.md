@@ -26,7 +26,7 @@
 ### 💻 **Tech Focus**
 - Passionate about **web-oriented applications** development
 - Building **user interfaces** with: `HTML/CSS`, `JavaScript/TypeScript`, `React`
-- **Java** enthusiast for backend solutions
+- **С#** enthusiast for backend solutions
 - Exploring **OOP principles** and **Data Structures & Algorithms**
 
 ### 🛠️ **Projects Experience**
@@ -43,21 +43,17 @@
 <div class="tech-icons-row" style="">
   <img class="tech-icon" src="https://skillicons.dev/icons?i=git" title="Git" height="40"/>
   <img class="tech-icon" src="https://skillicons.dev/icons?i=github" title="GitHub" height="40"/>
-  <img class="tech-icon" src="https://skillicons.dev/icons?i=java" title="Java SE" height="40"/>
-  <img class="tech-icon" src="https://custom-icon-badges.demolab.com/badge/JavaFX-ED8B00?style=flat&logo=openjdk&logoColor=white" title="JavaFX" height="40"/>
+  <img class="tech-icon" src="https://skillicons.dev/icons?i=cs" title="C#" height="40"/>
+  <img class="tech-icon" src="https://skillicons.dev/icons?i=dotnet" title=".NET" height="40"/>
   <img class="tech-icon" src="https://skillicons.dev/icons?i=figma" title="Figma" height="40"/>
   <img class="tech-icon" src="https://skillicons.dev/icons?i=html" title="HTML" height="40"/>
   <img class="tech-icon" src="https://skillicons.dev/icons?i=css" title="CSS" height="40"/>
   <img class="tech-icon" src="https://skillicons.dev/icons?i=js" title="JavaScript" height="40"/>
-  <img class="tech-icon" src="https://skillicons.dev/icons?i=php" title="PHP" height="40"/>
-  <img class="tech-icon" src="https://skillicons.dev/icons?i=cs" title="C#" height="40"/>
-  <img class="tech-icon" src="https://skillicons.dev/icons?i=dotnet" title=".NET" height="40"/>
+  <img class="tech-icon" src="https://skillicons.dev/icons?i=java" title="Java SE" height="40"/>
   <img class="tech-icon" src="https://skillicons.dev/icons?i=c" title="C" height="40"/>
+  <img class="tech-icon" src="https://skillicons.dev/icons?i=php" title="PHP" height="40"/>
   <img class="tech-icon" src="https://custom-icon-badges.demolab.com/badge/FASM-000000?style=flat&logo=assemblyscript&logoColor=white" title="FASM" height="40"/>
   <img class="tech-icon" src="https://custom-icon-badges.demolab.com/badge/Delphi-EE1F35?style=flat&logo=delphi&logoColor=white" title="Delphi" height="40"/>
-  <img class="tech-icon" src="https://custom-icon-badges.demolab.com/badge/JEE-007396?style=flat&logo=java&logoColor=white" title="Java EE" height="40"/>
-  <img class="tech-icon" src="https://skillicons.dev/icons?i=spring" title="Spring" height="40"/>
-  <img class="tech-icon" src="https://skillicons.dev/icons?i=maven" title="Maven" height="40"/>
   <img class="tech-icon" src="https://skillicons.dev/icons?i=react" title="React" height="40"/>
   <img class="tech-icon" src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="40"/>
 </div>
